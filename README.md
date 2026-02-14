@@ -10,10 +10,6 @@ This app integrates AI/ML-powered insights, multilingual support, encrypted trac
 
 ---
 
-## App Link
-
-You can download or try the app from here:  
-[**pashuseva App**](https://drive.google.com/file/d/16-GQKiZkEEIUa8U1wXIWtS6CJx0_olKF/view?usp=drivesdk)  
 
 ## Key Features
 
