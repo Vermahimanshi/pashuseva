@@ -1,10 +1,10 @@
-# CodeGamma_SIH
+# pashuseva
 
 **Flutter Project for Smart Antimicrobial Use in Livestock**
 
 ## Overview
 
-Improper antimicrobial use in livestock leads to food residues, driving antimicrobial resistance (AMR) and threatening global public health. **CodeGamma_SIH** is a mobile application designed to address the PS: Development of a Digital Farm Management Portal for Monitoring Maximum Residue Limits (MRL) and Antimicrobial Usage (AMU) in Livestock.
+Improper antimicrobial use in livestock leads to food residues, driving antimicrobial resistance (AMR) and threatening global public health. **pashuseva** is a mobile application designed to address the PS: Development of a Digital Farm Management Portal for Monitoring Maximum Residue Limits (MRL) and Antimicrobial Usage (AMU) in Livestock.
 
 This app integrates AI/ML-powered insights, multilingual support, encrypted traceability, and real-time compliance tracking, creating a unified solution for sustainable livestock farming and safer food supply.
 
@@ -13,7 +13,7 @@ This app integrates AI/ML-powered insights, multilingual support, encrypted trac
 ## App Link
 
 You can download or try the app from here:  
-[**CodeGamma_SIH App**](https://drive.google.com/file/d/16-GQKiZkEEIUa8U1wXIWtS6CJx0_olKF/view?usp=drivesdk)  
+[**pashuseva App**](https://drive.google.com/file/d/16-GQKiZkEEIUa8U1wXIWtS6CJx0_olKF/view?usp=drivesdk)  
 
 ## Key Features
 
